@@ -33,7 +33,11 @@ pipeline {
         }
 	stage('Build Complete') {
             steps {
+<<<<<<< HEAD
                 echo 'Hello World!'
+=======
+                echo 'Hello World Pipeline successful!'
+>>>>>>> 6daa1f5973497997c1b398e85425202c239a6cbf
             }
         }
     }
