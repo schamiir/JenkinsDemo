@@ -33,7 +33,7 @@ pipeline {
         }
 	stage('Build Complete') {
             steps {
-                echo 'Hello!'
+                echo 'Hello Nicole!'
             }
         }
     }
